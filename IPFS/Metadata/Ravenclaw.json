@@ -1,0 +1,24 @@
+{
+    "description": "Hogwarts NFT",
+    "external_url": "https://www.wizardingworld.com/",
+    "image": "ipfs://Qmbx8i9jAy81mFtBVkmDAddWjbCcKC7RWeNwoT3DMqAH3Z/RAVENCLAW.png",
+    "name": "Ravenclaw",
+    "attributes": [
+      {
+        "trait_type": "House",
+        "value": "Ravenclaw"
+      },
+      {
+        "trait_type": "Trait1",
+        "value": "Intelligence"
+      },
+      {
+        "trait_type": "Trait2",
+        "value": "Wisdom"
+      },
+      {
+        "trait_type": "Trait3",
+        "value": "Ingenuity"
+      }
+    ]
+  }

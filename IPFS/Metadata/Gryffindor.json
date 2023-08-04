@@ -1,0 +1,24 @@
+{
+    "description": "Hogwarts NFT",
+    "external_url": "https://www.wizardingworld.com/",
+    "image": "ipfs://Qmbx8i9jAy81mFtBVkmDAddWjbCcKC7RWeNwoT3DMqAH3Z/GRYFFINDOR.png",
+    "name": "Gryffindor",
+    "attributes": [
+      {
+        "trait_type": "House",
+        "value": "Gryffindor"
+      },
+      {
+        "trait_type": "Trait1",
+        "value": "Bravery"
+      },
+      {
+        "trait_type": "Trait2",
+        "value": "Courageous"
+      },
+      {
+        "trait_type": "Trait3",
+        "value": "Loyal"
+      }
+    ]
+  }

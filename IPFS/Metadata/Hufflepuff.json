@@ -1,0 +1,24 @@
+{
+    "description": "Hogwarts NFT",
+    "external_url": "https://www.wizardingworld.com/",
+    "image": "ipfs://Qmbx8i9jAy81mFtBVkmDAddWjbCcKC7RWeNwoT3DMqAH3Z/HUFFLEPUFF.png",
+    "name": "Hufflepuff",
+    "attributes": [
+      {
+        "trait_type": "House",
+        "value": "Hufflepuff"
+      },
+      {
+        "trait_type": "Trait1",
+        "value": "Loyal"
+      },
+      {
+        "trait_type": "Trait2",
+        "value": "Kind"
+      },
+      {
+        "trait_type": "Trait3",
+        "value": "Hardworking"
+      }
+    ]
+  }

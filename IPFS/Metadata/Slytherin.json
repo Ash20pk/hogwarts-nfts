@@ -1,0 +1,24 @@
+{
+    "description": "Hogwarts NFT",
+    "external_url": "https://www.wizardingworld.com/",
+    "image": "ipfs://Qmbx8i9jAy81mFtBVkmDAddWjbCcKC7RWeNwoT3DMqAH3Z/SLYTHERIN.png",
+    "name": "Slytherin",
+    "attributes": [
+      {
+        "trait_type": "House",
+        "value": "Slytherin"
+      },
+      {
+        "trait_type": "Trait1",
+        "value": "Ambitious"
+      },
+      {
+        "trait_type": "Trait2",
+        "value": "Cunning"
+      },
+      {
+        "trait_type": "Trait3",
+        "value": "Resourceful"
+      }
+    ]
+  }
